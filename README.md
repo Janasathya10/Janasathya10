@@ -20,7 +20,7 @@ With experience in BFSI operations and hands-on expertise in data-driven project
 ## 📂 Featured Projects  
 - [Retail Sales Prediction (AWS Deployment)](https://github.com/Janasathya10/Retail_sales_prediction_streamlit_AWS_deployment) → ANN model for sales & markdown forecasting, deployed on AWS with Streamlit.  
 - [PhonePe Transaction Insights](https://github.com/Janasathya10/Phonepe_Transaction_Insights) → SQL-driven analysis with visualization dashboards on digital payment trends.  
-- [PowerPulse: Energy Usage Forecast]((https://github.com/Janasathya10/PowerPulse-Household-Energy-Usage-Forecast) → Time-series forecasting model predicting household energy consumption.  
+- [PowerPulse: Energy Usage Forecast](https://github.com/Janasathya10/PowerPulse-Household-Energy-Usage-Forecast) → Time-series forecasting model predicting household energy consumption.  
 - [Fish Image Classification](https://github.com/Janasathya10/Multiclass_Fish_Image_Classification) → CNN-based deep learning model for classifying fish species.  
 - [Customer Behavior Analysis – ShopEasy](https://github.com/Janasathya10/Customer-Behavior-Analysis---ShopEasy) → SQL + visualization insights on customer purchase patterns.  
 - [Comment Toxicity Detection](https://github.com/Janasathya10/Comment_Toxicity_Detection) → NLP model detecting toxic comments using classification techniques.  
