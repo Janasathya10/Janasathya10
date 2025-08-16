@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Janardhanan R  
+# Hi, I'm Janardhanan R  
 
 **Data Analyst / Data Scientist | SQL | Python | ML | Power BI | AWS | BFSI Domain Experience**  
 
