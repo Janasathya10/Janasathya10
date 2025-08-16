@@ -18,7 +18,7 @@ With experience in BFSI operations and hands-on expertise in data-driven project
 ---
 
 ## 📂 Featured Projects  
-- [Retail Sales Prediction (AWS Deployment)](link_here) → ANN model for sales & markdown forecasting, deployed on AWS with Streamlit.  
+- [Retail Sales Prediction (AWS Deployment)](https://github.com/Janasathya10/Retail_sales_prediction_streamlit_AWS_deployment) → ANN model for sales & markdown forecasting, deployed on AWS with Streamlit.  
 - [PhonePe Transaction Insights](link_here) → SQL-driven analysis with visualization dashboards on digital payment trends.  
 - [PowerPulse: Energy Usage Forecast](link_here) → Time-series forecasting model predicting household energy consumption.  
 - [Fish Image Classification](link_here) → CNN-based deep learning model for classifying fish species.  
